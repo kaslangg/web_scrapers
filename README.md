@@ -7,3 +7,4 @@ Collection of build web scrapers for either specific sites or more generalized
 
 File: Pris sammenlinging kollegier Aarhus.ipynb
 
+**This file has not been filled out with comments yet to give content**
