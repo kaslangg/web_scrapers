@@ -6,4 +6,4 @@ ___
 
 ### Til at sammenligne studieboliger/kollegier i Aarhus.
 
-[Jupyter Notebook](Pris sammenlinging kollegier Aarhus.ipynb)
+[Jupyter Notebook](./Pris sammenlinging kollegier Aarhus.ipynb)
